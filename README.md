@@ -1,5 +1,7 @@
 # FIFA 21 Wage Estimator
 
+**Live app: [fifa-wage-prediction.streamlit.app](https://fifa-wage-prediction.streamlit.app/)**
+
 A small web app that estimates a football player's weekly wage from their FIFA 21 stats, built with Streamlit and LightGBM.
 
 ![The Wage Estimator page](docs/screenshot.png)
